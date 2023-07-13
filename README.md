@@ -17,6 +17,6 @@ https://monosnap.com/file/UjjPnRtdbePeGzT52NcYzKTMBsyNeD
 node index.js --action remove --id qdggE76Jtbfd9eWJHrssH
 https://monosnap.com/file/NYl2GY7fF1NK6z9DnQfN9kZX0fdpq5
 
-#Lista actualiza con un contacto nuevo y otro removido
+# Lista actualiza con un contacto nuevo y otro removido
 node index.js --action list
 https://monosnap.com/file/lDUL3NTijhrXLIdTcatYCLWihBGUGG
